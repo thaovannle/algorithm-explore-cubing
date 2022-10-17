@@ -1,1 +1,7 @@
 # cube
+
+Goals
+
+Metohds
+
+Resources
