@@ -14,16 +14,45 @@ Judge: Mr.Osudar
 
 <b> ao5: 34.56s </b>
 -------------------------------
+<h2> pyraminx solving </h2>
+-method: youtube video tutorial
+-resource: https://www.youtube.com/watch?v=2H0FUvaaUsI
 
-Goals: getting 5 seconds faster (current best: 30s, next: 25s)
+---------------------------
+|        | current |  best |
+---------------------------
+| time   | 34.54   | 26.88 |
+---------------------------
+| ao5    | 35.50   | 33.55 |
+---------------------------
+| ao12   | 41.30   | 41.30 |
+---------------------------
+| ao25   | 44.86   | 44.86 |
+---------------------------
 
 
-Methods: 
+---------------------------
+|        | current |  best |
+---------------------------
+| time   | 42.72   | 25.32 |
+---------------------------
+| ao5    | 38.83   | 36.44 |
+---------------------------
+| ao12   | 40.70   | 40.07 |
+---------------------------
+
+
+<b> pyraminx duo solving </b>
+---------------------------
+|        | current |  best |
+---------------------------
+| time   | 08.50   | 08.29 |
+---------------------------
+| ao5    | 12.86   | 12.86 |
+---------------------------
 
 
 
-Resources:
-Youtube video tutorial: https://www.youtube.com/watch?v=2H0FUvaaUsI
 
 (draft for issues)
 slow hand movement: need more practice
