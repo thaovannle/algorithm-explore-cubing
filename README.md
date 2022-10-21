@@ -13,10 +13,12 @@ Judge: Mr.Osudar
 5) 30.48
 
 <b> ao5: 34.56s </b>
+timer used: https://cstimer.net/ 
 -------------------------------
 <h2> pyraminx solving </h2>
--method: youtube video tutorial
+-method: basic- youtube video tutorial
 -resource: https://www.youtube.com/watch?v=2H0FUvaaUsI
+* for pyraminx i dont have a specific time, because i took a lot practices in between, and the ao25 it takes me couple of days, so time period would be last week, and beginning of this week *
 
 ---------------------------
 |        | current |  best |
@@ -31,6 +33,8 @@ Judge: Mr.Osudar
 ---------------------------
 
 daily pyraminx solving 
+method: basic 
+resource: https://www.youtube.com/watch?v=2H0FUvaaUsI
 ---------------------------
 |        | current |  best |
 ---------------------------
@@ -41,8 +45,10 @@ daily pyraminx solving
 | ao12   | 40.70   | 40.07 |
 ---------------------------
 
-
-<b> pyraminx duo solving </b>
+pyraminx duo solving
+method: beginner method
+resource: https://www.youtube.com/watch?v=xB9OFNyi-Uk 
+date: oct 18 2022
 ---------------------------
 |        | current |  best |
 ---------------------------
@@ -51,7 +57,41 @@ daily pyraminx solving
 | ao5    | 12.86   | 12.86 |
 ---------------------------
 
+pyraminx duo solving (prettier one)
+method: beginner method 
+resource: https://www.youtube.com/watch?v=xB9OFNyi-Uk 
+date: oct 20 2022
+--------------------------
+|        | current| best |
+---------------------------
+| time   | 5.98   | 3.16 |
+--------------------------
+| ao5    | 6.26   | 3.80 |
+--------------------------
+| ao12   | 7.59   | 6.11 |
+--------------------------
+| ao25   | 7.60   | 7.60 |
+--------------------------
 
+pyraminx (without middle piece solving 
+method: basic, treat as outer piece of a big/complex pyraminx
+date: oct 20 2022
+--------------------------
+|        | current| best |
+---------------------------
+| time   | 3.24   | 2.60 |
+--------------------------
+| ao5    | 6.81   | 3.02 |
+--------------------------
+| ao12   | 4.06   | 3.55 |
+--------------------------
+| ao25   | 4.69   | 4.66 |
+--------------------------
+
+
+other sources:
+https://www.wikihow.com/Solve-a-Pyraminx (yes, at beginning, when i first touched the pyraminx, the video did not help me much i still not understand, i indeed visited wikiHow...)
+-maryam: i have not touched the rubik yet, but maryam taught me some basics and rubik algorithms, steps of solving a rubik cube. make a daisy, solve for white first,...
 
 
 
