@@ -92,9 +92,6 @@ timer used: https://cstimer.net/
 <br> https://www.wikihow.com/Solve-a-Pyraminx (yes, at beginning, when i first touched the pyraminx, the video did not help me much i still not understand, i indeed visited wikiHow...) </br> 
 <br> -maryam: i have not touched the rubik yet, but maryam taught me some basics and rubik algorithms, steps of solving a rubik cube. make a daisy, solve for white first,...</br> 
 
-| New | Old |
-| --- | --- | 
-| Hi | Bye! |
 
 
 
