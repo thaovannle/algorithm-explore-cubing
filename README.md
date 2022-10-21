@@ -16,9 +16,9 @@ Judge: Mr.Osudar
 timer used: https://cstimer.net/ 
 -------------------------------
 <h2> pyraminx solving </h2>
--method: basic- youtube video tutorial
--resource: https://www.youtube.com/watch?v=2H0FUvaaUsI
-* for pyraminx i dont have a specific time, because i took a lot practices in between, and the ao25 it takes me couple of days, so time period would be last week, and beginning of this week *
+<br> -method: basic- youtube video tutorial </br> 
+<br> -resource: https://www.youtube.com/watch?v=2H0FUvaaUsI </br> 
+<br> * for pyraminx i dont have a specific time, because i took a lot practices in between, and the ao25 it takes me couple of days, so time period would be last week, and beginning of this week * </br> 
 
 ---------------------------
 |        | current |  best |
@@ -32,9 +32,9 @@ timer used: https://cstimer.net/
 | ao25   | 44.86   | 44.86 |
 ---------------------------
 
-daily pyraminx solving 
-method: basic 
-resource: https://www.youtube.com/watch?v=2H0FUvaaUsI
+<br> daily pyraminx solving </br> 
+<br> method: basic </br> 
+<br> resource: https://www.youtube.com/watch?v=2H0FUvaaUsI </br> 
 ---------------------------
 |        | current |  best |
 ---------------------------
@@ -45,10 +45,10 @@ resource: https://www.youtube.com/watch?v=2H0FUvaaUsI
 | ao12   | 40.70   | 40.07 |
 ---------------------------
 
-pyraminx duo solving
-method: beginner method
-resource: https://www.youtube.com/watch?v=xB9OFNyi-Uk 
-date: oct 18 2022
+<br> pyraminx duo solving </br> 
+<br> method: beginner method </br> 
+<br> resource: https://www.youtube.com/watch?v=xB9OFNyi-Uk </br> 
+<br> date: oct 18 2022 </br> 
 ---------------------------
 |        | current |  best |
 ---------------------------
@@ -57,10 +57,10 @@ date: oct 18 2022
 | ao5    | 12.86   | 12.86 |
 ---------------------------
 
-pyraminx duo solving (prettier one)
-method: beginner method 
-resource: https://www.youtube.com/watch?v=xB9OFNyi-Uk 
-date: oct 20 2022
+<br> pyraminx duo solving (prettier one) </br> 
+<br> method: beginner method </br> 
+<br> resource: https://www.youtube.com/watch?v=xB9OFNyi-Uk </br> 
+<br> date: oct 20 2022 </br> 
 --------------------------
 |        | current| best |
 ---------------------------
@@ -73,9 +73,9 @@ date: oct 20 2022
 | ao25   | 7.60   | 7.60 |
 --------------------------
 
-pyraminx (without middle piece solving 
-method: basic, treat as outer piece of a big/complex pyraminx
-date: oct 20 2022
+<br> pyraminx (without middle piece solving </br> 
+<br> method: basic, treat as outer piece of a big/complex pyraminx </br> 
+<br> date: oct 20 2022 </br> 
 --------------------------
 |        | current| best |
 ---------------------------
@@ -89,9 +89,9 @@ date: oct 20 2022
 --------------------------
 
 
-other sources:
-https://www.wikihow.com/Solve-a-Pyraminx (yes, at beginning, when i first touched the pyraminx, the video did not help me much i still not understand, i indeed visited wikiHow...)
--maryam: i have not touched the rubik yet, but maryam taught me some basics and rubik algorithms, steps of solving a rubik cube. make a daisy, solve for white first,...
+<br> other sources: <br> 
+<br> https://www.wikihow.com/Solve-a-Pyraminx (yes, at beginning, when i first touched the pyraminx, the video did not help me much i still not understand, i indeed visited wikiHow...) </br> 
+<br> -maryam: i have not touched the rubik yet, but maryam taught me some basics and rubik algorithms, steps of solving a rubik cube. make a daisy, solve for white first,...</br> 
 
 
 
